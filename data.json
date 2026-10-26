@@ -1,29 +1,110 @@
 {
-  "title": "Daily X narrative digest \u2014 YYYY-MM-DD",
-  "date": "2026-09-15",
+  "title": "Daily X narrative digest — 2026-10-26",
+  "date": "2026-10-26",
   "timezone": "Europe/London",
-  "updated": "2026-09-16T12:05:31+03:00",
+  "updated": "2026-10-26T13:20:00+00:00",
   "brand_title": "Freedom X Virality Score",
   "brand_handle": "@FreedomXmusic",
-  "hits": [],
+  "hits": [
+    {
+      "name": "DAN KOE",
+      "handle": "@thedankoe",
+      "views": 243573,
+      "views_label": "243.6K",
+      "highlight": true,
+      "url": "https://x.com/thedankoe/status/2114027336421032268",
+      "created_at": "2026-10-24T16:12:48Z",
+      "hook": "Most people who dream of a quiet life without work are just exhausted from work they hate. The reason you get bored on vacation after a week is that you are meant to move, pursue something exciting, and engage your body and mind in something useful. Do whatever it takes to find...",
+      "why_hit": "Reframes a common fantasy (the quiet life) as a symptom: one flip, plain words, no hashtags.",
+      "video_tip": "Say the flip in the first two lines over slow footage of someone moving/working."
+    },
+    {
+      "name": "Suno",
+      "handle": "@suno",
+      "views": 8468,
+      "views_label": "8.5K",
+      "url": "https://x.com/suno/status/2113693270849302710",
+      "created_at": "2026-10-23T18:05:20Z",
+      "hook": "Fresh for iOS: AirPlay support is live. Suno is now compatible with iPhone Duo.",
+      "why_hit": "Product-update post from the biggest AI-music account; short list + media.",
+      "video_tip": "Screen-record the feature in 5 seconds."
+    },
+    {
+      "name": "Suno",
+      "handle": "@suno",
+      "views": 7930,
+      "views_label": "7.9K",
+      "url": "https://x.com/suno/status/2113778687212687586",
+      "created_at": "2026-10-23T23:44:45Z",
+      "hook": "Meet DEATHPIXIE, a rapper from a dark, crime-ridden city called New Tokyo, and the team bringing her to life.",
+      "why_hit": "Character-led artist story with video; people react to a persona, not a feature.",
+      "video_tip": "Open on the character, not the tool."
+    }
+  ],
   "virals": [],
   "outsiders": [],
   "patterns": [],
-  "no_hits": [],
-  "virals_narrative": "Short outsider synthesis goes here.",
-  "narrative_synthesis": "Short outsider synthesis goes here.",
-  "virals_window": "last ~48h",
+  "no_hits": [
+    {
+      "handle": "@zacodil",
+      "reason": "Closest miss: 4,918 views (Oct 24); next best 3,813.",
+      "max_views": 4918
+    },
+    {
+      "handle": "@DBug0o",
+      "reason": "Best original 1,726 views; stayed under 2K.",
+      "max_views": 1726
+    },
+    {
+      "handle": "@xxxconquerxxx",
+      "reason": "Best original 1,512 views.",
+      "max_views": 1512
+    },
+    {
+      "handle": "@SGBackWoods",
+      "reason": "Best original 1,430 views.",
+      "max_views": 1430
+    },
+    {
+      "handle": "@CrimsonCompassX",
+      "reason": "Best original 1,099 views.",
+      "max_views": 1099
+    },
+    {
+      "handle": "@ShyneB0X",
+      "reason": "Best original 1,035 views.",
+      "max_views": 1035
+    },
+    {
+      "handle": "@themanbenjamin1",
+      "reason": "Best original 999 views.",
+      "max_views": 999
+    },
+    {
+      "handle": "@keepgoingAnnie",
+      "reason": "Best original 676 views.",
+      "max_views": 676
+    },
+    {
+      "handle": "@K_AI_Music",
+      "reason": "Best original 562 views.",
+      "max_views": 562
+    },
+    {
+      "handle": "@RedfearnMike",
+      "reason": "Best original 267 views.",
+      "max_views": 267
+    }
+  ],
+  "virals_narrative": "First scan (72h, originals only, API impression counts). 3 hits: Dan Koe 243.6K ★ and two Suno posts (8.5K, 7.9K). Music-drop accounts in the watchlist sit at 0.3-1.7K views. Outsider pass not run in this scan.",
+  "narrative_synthesis": "First scan (72h, originals only, API impression counts). 3 hits: Dan Koe 243.6K ★ and two Suno posts (8.5K, 7.9K). Music-drop accounts in the watchlist sit at 0.3-1.7K views. Outsider pass not run in this scan.",
+  "virals_window": "last ~72h",
   "virals_target": 20,
-  "hits_count": 0,
+  "hits_count": 3,
   "outsiders_count": 0,
-  "previous_day": {
-    "date": "2026-09-14",
-    "hits_count": 0,
-    "total_views": 0,
-    "x_score": 0
-  },
+  "previous_day": null,
   "leaderboards": {
-    "as_of": "2026-09-15",
+    "as_of": "2026-10-26",
     "tracking_start": "2026-09-13",
     "days_included": [
       "2026-09-09",
@@ -40,7 +121,7 @@
       "2026-09-15"
     ],
     "week": {
-      "label": "Rolling week \u00b7 Sep 9\u2013Sep 15",
+      "label": "Rolling week · Sep 9–Sep 15",
       "range": [
         "2026-09-09",
         "2026-09-15"
@@ -48,7 +129,7 @@
       "entries": []
     },
     "month": {
-      "label": "September 2026 \u00b7 from Sep 13",
+      "label": "September 2026 · from Sep 13",
       "range": [
         "2026-09-13",
         "2026-09-15"
@@ -86,7 +167,101 @@
   "ui": {
     "default_theme": "night"
   },
-  "day_roster": [],
-  "you_rank": null,
+  "day_roster": [
+    {
+      "handle": "@thedankoe",
+      "name": "DAN KOE",
+      "views": 243573,
+      "total_views": 243573,
+      "hit": true
+    },
+    {
+      "handle": "@suno",
+      "name": "Suno",
+      "views": 8468,
+      "total_views": 16398,
+      "hit": true
+    },
+    {
+      "handle": "@zacodil",
+      "name": "Vadim (AI, ⋈)",
+      "views": 4918,
+      "total_views": 4918,
+      "hit": false
+    },
+    {
+      "handle": "@themanbenjamin1",
+      "name": "Kelvin Igbinigie",
+      "views": 999,
+      "total_views": 999,
+      "hit": false
+    },
+    {
+      "handle": "@DBug0o",
+      "name": "LadyDBug0o",
+      "views": 1726,
+      "total_views": 1726,
+      "hit": false
+    },
+    {
+      "handle": "@xxxconquerxxx",
+      "name": "CQ",
+      "views": 1512,
+      "total_views": 1512,
+      "hit": false
+    },
+    {
+      "handle": "@CrimsonCompassX",
+      "name": "Crimson Compass",
+      "views": 1099,
+      "total_views": 1099,
+      "hit": false
+    },
+    {
+      "handle": "@SGBackWoods",
+      "name": "BackWoods",
+      "views": 1430,
+      "total_views": 1430,
+      "hit": false
+    },
+    {
+      "handle": "@ShyneB0X",
+      "name": "ShyneB0X",
+      "views": 1035,
+      "total_views": 1035,
+      "hit": false
+    },
+    {
+      "handle": "@K_AI_Music",
+      "name": "K - AI Music",
+      "views": 562,
+      "total_views": 562,
+      "hit": false
+    },
+    {
+      "handle": "@keepgoingAnnie",
+      "name": "Lala",
+      "views": 676,
+      "total_views": 676,
+      "hit": false
+    },
+    {
+      "handle": "@RedfearnMike",
+      "name": "Michael Redfearn",
+      "views": 267,
+      "total_views": 267,
+      "hit": false
+    }
+  ],
+  "you_rank": {
+    "handle": "@FreedomXmusic",
+    "best_views": 15,
+    "total_views": 43,
+    "best_url": "https://x.com/FreedomXmusic/status/2114386902975459746",
+    "rank_among_watchlist": null,
+    "total_accounts": 13,
+    "vs_5k": "pending",
+    "vs_10k": "pending"
+  },
   "trend_input_only_posts": []
 }

@@ -1,140 +1,204 @@
 {
-  "title": "Daily X narrative digest — 2026-10-26",
-  "date": "2026-10-26",
+  "title": "Daily X narrative digest — 2026-10-31",
+  "date": "2026-10-31",
   "timezone": "Europe/London",
-  "updated": "2026-10-26T13:20:00+00:00",
+  "updated": "2026-10-31T08:11:28+00:00",
   "brand_title": "Freedom X Virality Score",
   "brand_handle": "@FreedomXmusic",
   "hits": [
     {
       "name": "DAN KOE",
       "handle": "@thedankoe",
-      "views": 243573,
-      "views_label": "243.6K",
+      "views": 197885,
+      "views_label": "197.9K",
       "highlight": true,
-      "url": "https://x.com/thedankoe/status/2114027336421032268",
-      "created_at": "2026-10-24T16:12:48Z",
-      "hook": "Most people who dream of a quiet life without work are just exhausted from work they hate. The reason you get bored on vacation after a week is that you are meant to move, pursue something exciting, and engage your body and mind in something useful. Do whatever it takes to find...",
-      "why_hit": "Reframes a common fantasy (the quiet life) as a symptom: one flip, plain words, no hashtags.",
-      "video_tip": "Say the flip in the first two lines over slow footage of someone moving/working."
+      "url": "https://x.com/thedankoe/status/2116156997712195646",
+      "created_at": "2026-10-30T13:15:19Z",
+      "hook": "AI made it so anyone can build anything, but everyone was already distracted, so AI just made it 10x worse. Your competition was non existent to begin with, and your only real competition is your own mind.",
+      "why_hit": "One flip in plain words: AI made building easy, but distraction made competition vanish, so the only rival is your own mind. Text only, under 50 words.",
+      "video_tip": "Put the flip as on-screen text over slow footage of someone working alone at night; hold line two for a beat."
     },
     {
-      "name": "Suno",
-      "handle": "@suno",
-      "views": 8468,
-      "views_label": "8.5K",
-      "url": "https://x.com/suno/status/2113693270849302710",
-      "created_at": "2026-10-23T18:05:20Z",
-      "hook": "Fresh for iOS: AirPlay support is live. Suno is now compatible with iPhone Duo.",
-      "why_hit": "Product-update post from the biggest AI-music account; short list + media.",
-      "video_tip": "Screen-record the feature in 5 seconds."
-    },
-    {
-      "name": "Suno",
-      "handle": "@suno",
-      "views": 7930,
-      "views_label": "7.9K",
-      "url": "https://x.com/suno/status/2113778687212687586",
-      "created_at": "2026-10-23T23:44:45Z",
-      "hook": "Meet DEATHPIXIE, a rapper from a dark, crime-ridden city called New Tokyo, and the team bringing her to life.",
-      "why_hit": "Character-led artist story with video; people react to a persona, not a feature.",
-      "video_tip": "Open on the character, not the tool."
+      "name": "Lala",
+      "handle": "@keepgoingAnnie",
+      "views": 10341,
+      "views_label": "10.3K",
+      "highlight": true,
+      "url": "https://x.com/keepgoingAnnie/status/2116243082538791088",
+      "created_at": "2026-10-30T18:57:23Z",
+      "hook": "only for you\n\n@grok @imagine https://t.co/Re5ylz2Klx",
+      "why_hit": "Two-word caption ('only for you') plus a Grok Imagine video; the visual carries it and the short caption invites replies.",
+      "video_tip": "Open on the strongest frame, keep the caption to two or three words, let the clip loop cleanly."
     }
   ],
   "virals": [],
   "outsiders": [],
-  "patterns": [],
+  "patterns": [
+    {
+      "pattern": "One-flip reframe",
+      "example": "@thedankoe: easy tools plus distracted people means the real rival is your own mind",
+      "use": "State a common belief, flip it in the next sentence, stop."
+    },
+    {
+      "pattern": "Visual first, caption tiny",
+      "example": "@keepgoingAnnie: 'only for you' over a Grok Imagine clip, 10.3K",
+      "use": "For track drops, let a short clip carry it and keep the text to a few words."
+    },
+    {
+      "pattern": "Prompt-in-replies",
+      "example": "@keepgoingAnnie Prompt Drop posts sit at 1.6-1.9K with prompts in replies",
+      "use": "Offer the Suno prompt behind a track in the replies to pull saves and replies."
+    }
+  ],
   "no_hits": [
     {
       "handle": "@zacodil",
-      "reason": "Closest miss: 4,918 views on an ICP founder-commentary quote post (Oct 24); NEAR/Gemini listing post 3,289.",
-      "max_views": 4918
-    },
-    {
-      "handle": "@DBug0o",
-      "reason": "Best original 1,726 views; stayed under 2K.",
-      "max_views": 1726
-    },
-    {
-      "handle": "@xxxconquerxxx",
-      "reason": "Best original 1,512 views.",
-      "max_views": 1512
-    },
-    {
-      "handle": "@SGBackWoods",
-      "reason": "Best original 1,430 views.",
-      "max_views": 1430
-    },
-    {
-      "handle": "@CrimsonCompassX",
-      "reason": "Best original 1,099 views.",
-      "max_views": 1099
+      "reason": "Best original 2,468 views in the last 24h.",
+      "max_views": 2468
     },
     {
       "handle": "@ShyneB0X",
-      "reason": "Best original 1,035 views.",
-      "max_views": 1035
+      "reason": "Best original 791 views in the last 24h.",
+      "max_views": 791
     },
     {
-      "handle": "@themanbenjamin1",
-      "reason": "Best original 999 views.",
-      "max_views": 999
-    },
-    {
-      "handle": "@keepgoingAnnie",
-      "reason": "Best original 676 views.",
-      "max_views": 676
-    },
-    {
-      "handle": "@K_AI_Music",
-      "reason": "Best original 562 views.",
-      "max_views": 562
+      "handle": "@DBug0o",
+      "reason": "Best original 516 views in the last 24h.",
+      "max_views": 516
     },
     {
       "handle": "@RedfearnMike",
-      "reason": "Best original 267 views.",
-      "max_views": 267
+      "reason": "Best original 503 views in the last 24h.",
+      "max_views": 503
+    },
+    {
+      "handle": "@themanbenjamin1",
+      "reason": "Best original 316 views in the last 24h.",
+      "max_views": 316
+    },
+    {
+      "handle": "@CrimsonCompassX",
+      "reason": "Best original 209 views in the last 24h.",
+      "max_views": 209
+    },
+    {
+      "handle": "@K_AI_Music",
+      "reason": "Best original 160 views in the last 24h.",
+      "max_views": 160
+    },
+    {
+      "handle": "@suno",
+      "reason": "No original posts in the last 24h.",
+      "max_views": 0
+    },
+    {
+      "handle": "@SGBackWoods",
+      "reason": "No original posts in the last 24h.",
+      "max_views": 0
+    },
+    {
+      "handle": "@xxxconquerxxx",
+      "reason": "No original posts in the last 24h.",
+      "max_views": 0
     }
   ],
-  "virals_narrative": "First scan (72h, originals only, API impression counts). 3 hits: Dan Koe 243.6K ★ and two Suno posts (8.5K, 7.9K). Music-drop accounts in the watchlist sit at 0.3-1.7K views. Outsider pass not run in this scan.",
-  "narrative_synthesis": "First scan (72h, originals only, API impression counts). 3 hits: Dan Koe 243.6K ★ and two Suno posts (8.5K, 7.9K). Music-drop accounts in the watchlist sit at 0.3-1.7K views. Outsider pass not run in this scan.",
-  "virals_window": "last ~72h",
+  "virals_narrative": "24h scan (originals only). 2 hits: Dan Koe 197.9K with a one-flip line about AI and distraction, and keepgoingAnnie 10.3K with a two-word caption on a Grok Imagine clip. Suno posted no originals in the window. Music-drop accounts sat at 0.1-0.8K; zacodil peaked at 2.5K on crypto explainers. @FreedomXmusic has not posted since Oct 27.",
+  "narrative_synthesis": "24h scan (originals only). 2 hits: Dan Koe 197.9K with a one-flip line about AI and distraction, and keepgoingAnnie 10.3K with a two-word caption on a Grok Imagine clip. Suno posted no originals in the window. Music-drop accounts sat at 0.1-0.8K; zacodil peaked at 2.5K on crypto explainers. @FreedomXmusic has not posted since Oct 27.",
+  "virals_window": "last ~24h",
   "virals_target": 20,
-  "hits_count": 3,
+  "hits_count": 2,
   "outsiders_count": 0,
-  "previous_day": null,
+  "previous_day": {
+    "date": "2026-10-26",
+    "hits_count": 3,
+    "top": "243.6K"
+  },
   "leaderboards": {
-    "as_of": "2026-10-26",
-    "tracking_start": "2026-09-13",
+    "as_of": "2026-10-31",
+    "tracking_start": "2026-10-26",
     "days_included": [
-      "2026-09-09",
-      "2026-09-10",
-      "2026-09-11",
-      "2026-09-12",
-      "2026-09-13",
-      "2026-09-14",
-      "2026-09-15"
+      "2026-10-26",
+      "2026-10-27",
+      "2026-10-28",
+      "2026-10-29",
+      "2026-10-30",
+      "2026-10-31"
     ],
     "month_days_included": [
-      "2026-09-13",
-      "2026-09-14",
-      "2026-09-15"
+      "2026-10-26",
+      "2026-10-31"
     ],
     "week": {
-      "label": "Rolling week · Sep 9–Sep 15",
+      "label": "Rolling week · Oct 26–Oct 31",
       "range": [
-        "2026-09-09",
-        "2026-09-15"
+        "2026-10-26",
+        "2026-10-31"
       ],
-      "entries": []
+      "entries": [
+        {
+          "handle": "@thedankoe",
+          "name": "DAN KOE",
+          "hits": 2,
+          "days": 2,
+          "views": 441458,
+          "best": 243573,
+          "best_url": "https://x.com/thedankoe/status/2114027336421032268"
+        },
+        {
+          "handle": "@suno",
+          "name": "Suno",
+          "hits": 2,
+          "days": 1,
+          "views": 16398,
+          "best": 8468,
+          "best_url": "https://x.com/suno/status/2113693270849302710"
+        },
+        {
+          "handle": "@keepgoingAnnie",
+          "name": "Lala",
+          "hits": 1,
+          "days": 1,
+          "views": 10341,
+          "best": 10341,
+          "best_url": "https://x.com/keepgoingAnnie/status/2116243082538791088"
+        }
+      ]
     },
     "month": {
-      "label": "September 2026 · from Sep 13",
+      "label": "October 2026 · from Oct 26",
       "range": [
-        "2026-09-13",
-        "2026-09-15"
+        "2026-10-26",
+        "2026-10-31"
       ],
-      "entries": []
+      "entries": [
+        {
+          "handle": "@thedankoe",
+          "name": "DAN KOE",
+          "hits": 2,
+          "days": 2,
+          "views": 441458,
+          "best": 243573,
+          "best_url": "https://x.com/thedankoe/status/2114027336421032268"
+        },
+        {
+          "handle": "@suno",
+          "name": "Suno",
+          "hits": 2,
+          "days": 1,
+          "views": 16398,
+          "best": 8468,
+          "best_url": "https://x.com/suno/status/2113693270849302710"
+        },
+        {
+          "handle": "@keepgoingAnnie",
+          "name": "Lala",
+          "hits": 1,
+          "days": 1,
+          "views": 10341,
+          "best": 10341,
+          "best_url": "https://x.com/keepgoingAnnie/status/2116243082538791088"
+        }
+      ]
     }
   },
   "board_features": {
@@ -171,97 +235,107 @@
     {
       "handle": "@thedankoe",
       "name": "DAN KOE",
-      "views": 243573,
-      "total_views": 243573,
-      "hit": true
-    },
-    {
-      "handle": "@suno",
-      "name": "Suno",
-      "views": 8468,
-      "total_views": 16398,
-      "hit": true
-    },
-    {
-      "handle": "@zacodil",
-      "name": "Vadim (AI, ⋈)",
-      "views": 4918,
-      "total_views": 4918,
-      "hit": false
-    },
-    {
-      "handle": "@themanbenjamin1",
-      "name": "Kelvin Igbinigie",
-      "views": 999,
-      "total_views": 999,
-      "hit": false
-    },
-    {
-      "handle": "@DBug0o",
-      "name": "LadyDBug0o",
-      "views": 1726,
-      "total_views": 1726,
-      "hit": false
-    },
-    {
-      "handle": "@xxxconquerxxx",
-      "name": "CQ",
-      "views": 1512,
-      "total_views": 1512,
-      "hit": false
-    },
-    {
-      "handle": "@CrimsonCompassX",
-      "name": "Crimson Compass",
-      "views": 1099,
-      "total_views": 1099,
-      "hit": false
-    },
-    {
-      "handle": "@SGBackWoods",
-      "name": "BackWoods",
-      "views": 1430,
-      "total_views": 1430,
-      "hit": false
-    },
-    {
-      "handle": "@ShyneB0X",
-      "name": "ShyneB0X",
-      "views": 1035,
-      "total_views": 1035,
-      "hit": false
-    },
-    {
-      "handle": "@K_AI_Music",
-      "name": "K - AI Music",
-      "views": 562,
-      "total_views": 562,
-      "hit": false
+      "views": 197885,
+      "total_views": 197885,
+      "hit": true,
+      "best_url": "https://x.com/thedankoe/status/2116156997712195646"
     },
     {
       "handle": "@keepgoingAnnie",
       "name": "Lala",
-      "views": 676,
-      "total_views": 676,
-      "hit": false
+      "views": 10341,
+      "total_views": 19494,
+      "hit": true,
+      "best_url": "https://x.com/keepgoingAnnie/status/2116243082538791088"
+    },
+    {
+      "handle": "@zacodil",
+      "name": "Vadim (AI, ⋈)",
+      "views": 2468,
+      "total_views": 6959,
+      "hit": false,
+      "best_url": "https://x.com/zacodil/status/2116090732230430723"
+    },
+    {
+      "handle": "@ShyneB0X",
+      "name": "ShyneB0X",
+      "views": 791,
+      "total_views": 2332,
+      "hit": false,
+      "best_url": "https://x.com/ShyneB0X/status/2116224095507345433"
+    },
+    {
+      "handle": "@DBug0o",
+      "name": "𝓛𝓪𝓭𝔂𝓓𝓑𝓾𝓰0o ♕",
+      "views": 516,
+      "total_views": 695,
+      "hit": false,
+      "best_url": "https://x.com/DBug0o/status/2116309210057044332"
     },
     {
       "handle": "@RedfearnMike",
       "name": "Michael Redfearn",
-      "views": 267,
-      "total_views": 267,
+      "views": 503,
+      "total_views": 503,
+      "hit": false,
+      "best_url": "https://x.com/RedfearnMike/status/2116113071877902704"
+    },
+    {
+      "handle": "@themanbenjamin1",
+      "name": "Kelvin Igbinigie",
+      "views": 316,
+      "total_views": 529,
+      "hit": false,
+      "best_url": "https://x.com/themanbenjamin1/status/2116244237251387479"
+    },
+    {
+      "handle": "@CrimsonCompassX",
+      "name": "Crimson🧭Compass",
+      "views": 209,
+      "total_views": 313,
+      "hit": false,
+      "best_url": "https://x.com/CrimsonCompassX/status/2116207156970369525"
+    },
+    {
+      "handle": "@K_AI_Music",
+      "name": "K - AI Music",
+      "views": 160,
+      "total_views": 160,
+      "hit": false,
+      "best_url": "https://x.com/K_AI_Music/status/2116303491941491079"
+    },
+    {
+      "handle": "@suno",
+      "name": "suno",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@SGBackWoods",
+      "name": "SGBackWoods",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@xxxconquerxxx",
+      "name": "xxxconquerxxx",
+      "views": 0,
+      "total_views": 0,
       "hit": false
     }
   ],
   "you_rank": {
     "handle": "@FreedomXmusic",
-    "best_views": 15,
-    "total_views": 43,
-    "best_url": "https://x.com/FreedomXmusic/status/2114386902975459746",
+    "best_views": 0,
+    "total_views": 0,
+    "best_url": null,
     "rank_among_watchlist": null,
     "total_accounts": 13,
     "vs_5k": "pending",
-    "vs_10k": "pending"
+    "vs_10k": "pending",
+    "note": "No posts in the last 24h; latest post Oct 27 22:01 London."
   },
   "trend_input_only_posts": []
 }
